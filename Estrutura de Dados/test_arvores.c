@@ -5,6 +5,7 @@
 #include <assert.h>
 #include "arvores.h"
 #define MAX 10
+
 treg * fexecuta(treg reg){
     static treg v[MAX + 1];
     static int pos = 0;

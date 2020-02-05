@@ -2,7 +2,7 @@
 // OVERVIEW: arvores.h
 // ========
 // Struct definitions for AVL, 
-// Red-black and Simple trees.
+// Red-black and ABB trees.
 //
 // Author(s): Dimitre Ortt
 // Last revision: 17/11/2017
